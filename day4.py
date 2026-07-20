@@ -26,5 +26,4 @@ class Account:
         print(f"Balance: {self.__balance} ETB")
         print("-------------------------")
 
-my_account = Account(owner="Samuel", account_number="AD-1001", initial_balance=100.0)
 
